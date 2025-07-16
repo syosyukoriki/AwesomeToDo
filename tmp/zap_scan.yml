@@ -1,4 +1,4 @@
-name:inport HAR File
+name: import HAR File
 type: import
 parameters:
   type:har
