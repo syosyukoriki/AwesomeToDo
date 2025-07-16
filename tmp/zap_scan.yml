@@ -1,8 +1,8 @@
 name: import HAR File
 type: import
 parameters:
-  type:har
-  fileName:/zap/wrk/tmp/AwesomeToDo.har
+  type: har
+  fileName: /zap/wrk/tmp/AwesomeToDo.har
   
 type: report
 parametes:
